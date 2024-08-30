@@ -1,4 +1,6 @@
-// Função do site abaixo
+
+
+=// Função do site abaixo
 
 function verificarPrimo() {
     const numero = parseInt(document.getElementById("numero").value);
